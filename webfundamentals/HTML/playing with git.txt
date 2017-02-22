@@ -1,0 +1,19 @@
+cd desktop
+mkdir test
+cd test
+touch index.html
+touch styles.css
+touch aboutMe.txt
+git init
+git add .
+git commit -m "first commit"
+vi aboutMe.txt
+git add .
+git commit -m "second commit"
+vi aboutMe.tt
+git add .
+git commit -m "third commit, fave movie"
+git log
+git reset 3e363f41750da1e87d50906af7031cf8abd71092 --hard
+git revert -n 3e363f4
+git commit -m "revert 3e363f4"

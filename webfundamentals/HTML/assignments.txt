@@ -1,0 +1,5 @@
+assignments.txt
+
+C:\Users\shawn\Desktop\DojoAssignments\WebFundamentals\HTML>dir /b /s
+C:\Users\shawn\Desktop\DojoAssignments\WebFundamentals\HTML\about.txt
+C:\Users\shawn\Desktop\DojoAssignments\WebFundamentals\HTML\indentation.html
