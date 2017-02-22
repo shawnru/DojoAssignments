@@ -1,0 +1,11 @@
+i created a new repository in github
+opened terminal and pressed cd dojoassignments to get to folder
+initialized git by pressing git init
+git add .
+git commit -m ""
+pushed to repository on git with git remote origin master. then pushed it
+touch readme.md in dojo assignments
+git status
+git add .
+git commit and pushed
+made this to outline the steps i took
